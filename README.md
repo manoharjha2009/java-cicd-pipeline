@@ -57,11 +57,11 @@ Implementing Advanced Pipeline Strategies
 
 As your project grows, you may need more sophisticated pipeline strategies:
 
-Parallel stages: Use parallel stages to run multiple steps simultaneously, reducing the overall build time.
+# Parallel stages: Use parallel stages to run multiple steps simultaneously, reducing the overall build time.
 
-Pipeline libraries: For complex projects, consider using shared pipeline libraries to reuse common code across different pipelines.
+# Pipeline libraries: For complex projects, consider using shared pipeline libraries to reuse common code across different pipelines.
 
-Parameterized builds: If you need different configurations (like testing in different environments), use parameterized builds to dynamically pass parameters to your pipeline.
+# Parameterized builds: If you need different configurations (like testing in different environments), use parameterized builds to dynamically pass parameters to your pipeline.
 
 Deployment Strategies
 
